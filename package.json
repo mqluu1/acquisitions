@@ -1,0 +1,26 @@
+{
+  "name": "acquisitions",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mqluu1/acquisitions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mqluu1/acquisitions/issues"
+  },
+  "homepage": "https://github.com/mqluu1/acquisitions#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "exxpress": "^1.0.0"
+  }
+}
