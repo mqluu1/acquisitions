@@ -80,7 +80,7 @@ const securityMiddleware = async (req, res, next) => {
         res
             .status(500)
             .json({
-                error: 'Internal server error',
+                errro: 'Internal server error',
                 message: 'Something went wrong with security middleware',
             });
     }
